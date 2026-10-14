@@ -1,3 +1,5 @@
 My repository has this README file
 
-it also has max.sh
+It also has max.sh
+
+And now it has filetest.sh
